@@ -1,4 +1,4 @@
-package com.macys.msc.whm.multitenancy;
+package io.github.spansari.multitenancy;
 
 import org.springframework.jdbc.datasource.lookup.AbstractRoutingDataSource;
 

@@ -1,4 +1,4 @@
-package com.macys.msc.whm.multitenancy;
+package io.github.spansari.multitenancy;
 
 public class ThreadLocalStorage {
 
